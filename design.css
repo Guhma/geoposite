@@ -1,3 +1,11 @@
+/*
+André Lopes - Nº02
+Bruno Franco - Nº04
+Eduardo Felipe - Nº07
+Gustavo Almeida - Nº17
+2ºD - Informática para Internet
+*/
+
 html{
   scroll-behavior: smooth;
 }
@@ -131,7 +139,7 @@ p{
 }
 
 .posicao{
-  transform: translateY(-30px);
+  transform: translateY(-20px);
 }
 
 @media (max-width: 800px) {
